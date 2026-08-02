@@ -5,6 +5,14 @@
     {
       "library": "microsoft-signalr@10.0.0",
       "destination": "wwwroot/lib/signalr/"
+    },
+    {
+      "library": "jquery@4.0.0",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@4.0.0",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
     }
   ]
 }
