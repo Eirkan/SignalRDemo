@@ -7,12 +7,21 @@
       "destination": "wwwroot/lib/signalr/"
     },
     {
-      "library": "jquery@4.0.0",
+      "provider": "unpkg",
+      "library": "bootstrap@5.3.6",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "jquery@3.7.1",
       "destination": "wwwroot/lib/jquery/"
     },
     {
+      "library": "jquery-validate@1.21.0",
+      "destination": "wwwroot/lib/jquery-validation"
+    },
+    {
       "library": "jquery-validation-unobtrusive@4.0.0",
-      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive"
     }
   ]
 }
